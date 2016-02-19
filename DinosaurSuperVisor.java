@@ -13,5 +13,6 @@ public class DinosaurSuperVisor {
         velociraptor.eat();
         t_rex.eat();
         myDinosaur.eat();
+        t_rex.eat();
     }
 }
